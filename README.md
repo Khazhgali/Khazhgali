@@ -179,7 +179,7 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 - **General and algebraic topology** (Bachelor course – Exercise sessions) at *Department of Mathematics and Geosciences, Università degli studi di Trieste* — Spring 2016
 
-## 📬 Contact information
+## Contact information
 
 - **Email**: ['khazhgali.kozhasov@univ-cotedazur.fr'](mailto:khazhgali.kozhasov@univ-cotedazur.fr)
 - **Address**: Laboratoire J.-A. Dieudonné Building, Parc Valrose 06108 NICE CEDEX 2 France
