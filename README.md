@@ -21,7 +21,7 @@
 🔬 Research Interests
 
 <p 
-  <i> Real Algebraic Geometry | Computational Algebraic Geometry | Polynomial Optimization | Low-rank Approximations | Random Algebraic Geometry </i>
+  <i> Real Algebraic Geometry | Computational Algebraic Geometry | Polynomial Optimization | Random Algebraic Geometry </i>
   </p>
   
 ## Publications and preprints
