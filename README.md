@@ -19,7 +19,7 @@
   <i> Affiliated Researcher | <a href="https://team.inria.fr/aromath/">AROMATH</a>, <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur">INRIA Sophia Antipolis</a> </i></p>
 <p align="center">
   <i> International Faculty | <a href="https://internationalmathematicsmaster.org/">International Mathematics Master</a> </i></p>
----
+
 
 ## Research Interests
 
