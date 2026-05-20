@@ -36,7 +36,7 @@
     
 ## Publications and preprints
 
-**For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)** <br>
+**For updates see [ArXiv](https://arxiv.org/a/kozhasov_k_1.html), [HAL](https://cv.hal.science/khazhgali-kozhasov), [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)** <br>
 
 
 1. **On odd powers of nonnegative polynomials that are not sums of squares**  
