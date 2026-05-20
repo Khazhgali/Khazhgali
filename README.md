@@ -127,17 +127,22 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 ## Teaching
 
+
+
 | Course | Title | Institution | Semester | Materials |
 |--------|-------|-------------|----------|-----------|
 | **CS 440** | Machine Learning | University Name | Fall 2024 | [Syllabus](link) • [GitHub Repo](link) |
 | **CS 201** | Data Structures & Algorithms | University Name | Spring 2024 | [Assignments](link) • [Lecture Notes](link) |
 | **DS 101** | Introduction to Data Science | University Name | Fall 2023 | [Course Website](link) |
 
+## Past teaching
+
+
 ## 📬 Contact information
 
 - **Email**: `khazhgali.kozhasov@univ-cotedazur.fr`  
 - **Office**: Laboratoire J.-A. Dieudonné Building, Office 815  
-- **Lab website**: [Your Lab Name](link)  
+- [**J. A. Dieudonné Laboratory website**](https://math.univ-cotedazur.fr/)  
 
 ---
 
