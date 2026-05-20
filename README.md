@@ -21,7 +21,7 @@
 🔬 Research Interests
 
 <p align="center">
-  <i> Real Algebraic Geometry | Differential and Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
+  <i> Real Algebraic Geometry | Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
   </p>
 
   <p <i> The research directions I am currently interested in are: </i> </p>
