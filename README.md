@@ -13,8 +13,8 @@
 
 <!-- Quick bio -->
 <p align="center">
-  <i>Assistant Professor of Computer Science | University Name<br>
-  Research: Machine Learning, Scientific Computing, Reproducibility</i>
+  <i>Junior Professor Chair of "Computational Geometry" | Université Côte d'Azur<br>
+  Research: Real Algebraic Geometry, Computational Algebraic Geometry, Polynomial Optimization, Low-rank Approximations, Random Algebraic Geometry</i>
 </p>
 
 ---
@@ -31,22 +31,13 @@
 
 ---
 
-## 🧑‍🏫 Teaching
+## Teaching
 
 | Course | Title | Institution | Semester | Materials |
 |--------|-------|-------------|----------|-----------|
 | **CS 440** | Machine Learning | University Name | Fall 2024 | [Syllabus](link) • [GitHub Repo](link) |
 | **CS 201** | Data Structures & Algorithms | University Name | Spring 2024 | [Assignments](link) • [Lecture Notes](link) |
 | **DS 101** | Introduction to Data Science | University Name | Fall 2023 | [Course Website](link) |
-
-### 🎓 Teaching Philosophy
-> *“I believe in project-based, inclusive learning where students build real-world systems while understanding foundational theory.”*
-
-- 🏆 **Teaching Award** (2023) – College of Engineering  
-- ✅ Certified in **Online & Blended Teaching**  
-- 📝 Mentored 8+ undergraduate research projects
-
----
 
 ## 🔬 Research Interests
 
@@ -58,38 +49,11 @@
   <img src="https://img.shields.io/badge/Open_Science-2C3E50?style=flat-square&logo=openaccess&logoColor=white">
 </p>
 
-- **Current projects**:  
-  - Scalable GNNs for drug discovery (NIH-funded)  
-  - Automated reproducibility checks for Jupyter notebooks  
-  - Bayesian optimisation for scientific simulations
-
-- **Open-source tools I maintain**:  
-  - [`repro-check`](https://github.com/Khazhgali/repro-check) – CI for reproducibility  
-  - [`gnn-bench`](https://github.com/Khazhgali/gnn-bench) – benchmarking suite
-
----
-
-## 📊 Academic Metrics
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Khazhgali&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2C3E50&icon_color=2C3E50&text_color=333333&hide=contribs" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khazhgali&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=333333" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khazhgali&theme=graywhite&hide_border=true&background=ffffff&stroke=2C3E50&ring=2C3E50&fire=2C3E50" width="70%" />
-</p>
-
----
-
 ## 📬 Contact & Collaboration
 
-- **Email**: `khazhgali@university.edu`  
-- **Office**: 345 CS Building, University Name  
-- **Calendar**: [Book a meeting](link-to-calendly)  
+- **Email**: `khazhgali.kozhasov@univ-cotedazur.fr`  
+- **Office**: Laboratoire J.-A. Dieudonné Building, Office 815  
 - **Lab website**: [Your Lab Name](link)  
-
-I'm open to **PhD students**, **postdoc inquiries**, and **reviewing for journals/conferences** in my areas. Feel free to reach out!
 
 ---
 
