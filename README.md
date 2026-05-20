@@ -36,6 +36,9 @@
     
 ## Publications and preprints
 
+**For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)** <br>
+
+
 1. **On odd powers of nonnegative polynomials that are not sums of squares**  
    *G. Blekherman, Khazhgali Kozhasov, B. Reznick*  
    arXiv preprint (2024)  
@@ -125,8 +128,6 @@
     *Khazhgali Kozhasov*  
     *SIAM Journal on Applied Algebra and Geometry*, Vol. 2, No. 2, pp. 339–347 (2018)  
     [DOI](https://doi.org/10.1137/17M114565X)
-
-**For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)**
 
 ## Teaching
 
