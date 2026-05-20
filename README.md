@@ -136,7 +136,7 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 - **Real solutions in Euclidean Distance minimization problems** (Minicourse at research school "Singularities and Applications to Optimization") at *Institute of Mathematics of the Romanian Academy, Bucureşti* — September 2025
 
-- **Riemannian Geometry** (International Mathematics Master Algeria – Lectures) at *National Higher School of Mathematics* — May 2025
+- **Riemannian Geometry** (International Mathematics Master Algeria) at *National Higher School of Mathematics* — May 2025
 
 - **Geometric statistics** (Master, M2 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Fall 2024
 
