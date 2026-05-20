@@ -181,7 +181,7 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 ## 📬 Contact information
 
-- **Email**: <p <a href="mailto:khazhgali.kozhasov@univ-cotedazur.fr"'khazhgali.kozhasov@univ-cotedazur.fr'</a></p>
+- **Email**: <p <i><a href="mailto:khazhgali.kozhasov@univ-cotedazur.fr"khazhgali.kozhasov@univ-cotedazur.fr</a></i></p>
 - **Address**: Laboratoire J.-A. Dieudonné Building, Parc Valrose 06108 NICE CEDEX 2 France
 - **Office**: 815
 - [**J. A. Dieudonné Laboratory website**](https://math.univ-cotedazur.fr/)  
