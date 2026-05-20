@@ -24,11 +24,11 @@
   <i> Real Algebraic Geometry | Differential and Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
   </p>
 
-  <p The research directions I am currently interested in are: </p>
+  <p <i> The research directions I am currently interested in are: </i> </p>
   
-  <p Nonnegative polynomials, sums of squares and their applications to polynomial optimization </p> 
-  <p Euclidean Distance minimization problems to special matrix and tensor varieties </p> 
-  <p Geometry of flag varieties and their applications to geometric statistics </p> 
+  <p <i> Nonnegative polynomials, sums of squares and their applications to polynomial optimization </i> </p> 
+  <p <i> Euclidean Distance minimization problems to special matrix and tensor varieties </i></p> 
+  <p <i> Geometry of flag varieties and their applications to geometric statistics </i> </p> 
       
 ## Publications and preprints
 
