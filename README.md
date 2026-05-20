@@ -1,6 +1,5 @@
 <!-- Academic header with subtle animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&size=28&duration=2000&pause=500&color=2C3E50&center=true&vCenter=true&width=500&lines=Dr.+Khazhgali+(Khai);Researcher+%7C+Educator;CS+%40+Your+University" alt="Academic Header" />
 </h1>
 
 <!-- Orcid-style social badges -->
@@ -23,7 +22,7 @@
 ## 📚 Publications (Selected)
 
 | Year | Title & Authors | Venue | Links |
-|------|----------------|-------|-------|
+|------|----------------|-------|-------|m
 | 2024 | *"Scalable Graph Neural Networks for Protein Folding"* <br> Khazhgali, A., Smith, J., Lee, M. | **NeurIPS 2024** | [PDF](link) • [Code](link) |
 | 2023 | *"Reproducible Workflows in Computational Biology"* <br> Khazhgali, A., Garcia, R. | **JOSS** (Journal of Open Source Software) | [DOI](link) • [Software](link) |
 | 2022 | *"Bayesian Optimization for Hyperparameter Tuning"* <br> Khazhgali, A., Wang, L. | **ICML Workshop on AutoML** | [PDF](link) • [Slides](link) |
