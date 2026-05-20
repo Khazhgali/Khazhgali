@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <i>Tenure-track professor (Chair de Professeur Junior "Géométrie computationnelle") | <a href="https://math.univ-cotedazur.fr/">Laboratoire J. A. Dieudonné</a>, <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a><br> </i>
+  <i>Tenure-track professor (Chair de Professeur Junior "Géométrie computationnelle") |<br> <a href="https://math.univ-cotedazur.fr/">Laboratoire J. A. Dieudonné</a>, <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a><br> </i>
 </p>
 <p align="center">
   <i> Affiliated researcher | <a href="https://team.inria.fr/aromath/">AROMATH</a>, <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur">INRIA Sophia Antipolis</a> </i></p>
