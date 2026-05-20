@@ -20,7 +20,7 @@
 
 🔬 Research Interests
 
-<p 
+<p align="center">
   <i> Real Algebraic Geometry | Differential and Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
   </p>
 
