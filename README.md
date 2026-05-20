@@ -18,7 +18,7 @@
 <p align="center">
   <i> Affiliated researcher | AROMATH, INRIA Sophia Antipolis </i></p>
 <p align="center">
-  <i> International Faculty | <a href="https://internationalmathematicsmaster.org/"><International Mathematics Master></a> </i></p>
+  <i> International Faculty | <a href="https://internationalmathematicsmaster.org/">International Mathematics Master</a> </i></p>
 ---
 
 ## Research Interests
