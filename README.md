@@ -21,10 +21,10 @@
 🔬 Research Interests
 
 <p align="center">
-  <i> Real Algebraic Geometry | Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry <br></i>
+  <i> Real Algebraic Geometry | Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry <br><br></i>
   </p>
 
-  <p <i> The research directions I am currently interested in are: <br></i> </p>
+  <p <i> The research directions I am currently interested in are: <br><br></i> </p>
   
   <p <i> • Nonnegative polynomials, sums of squares and their applications to polynomial optimization </i> </p> 
   <p <i> • Euclidean Distance minimization problems to special matrix and tensor varieties </i></p> 
