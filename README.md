@@ -6,12 +6,10 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="https://orcid.org/0000-0001-5358-5928"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="https://github.com/Khazhgali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:khazhgali.kozhasov@univ-cotedazur.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://arxiv.org/a/kozhasov_k_1.html"><img src="https://img.shields.io/badge/arXiv-2310.12345-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
-  <a href="https://hal.archives-ouvertes.fr/search/index/?q=*&authIdPerson=1234567"><img src="https://img.shields.io/badge/HAL-0066cc?style=for-the-badge&logo=hal&logoColor=white"></a>
   <a href="https://www.researchgate.net/profile/Khazhgali-Kozhasov"><img src="https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-
+  <a href="https://arxiv.org/a/kozhasov_k_1.html"><img src="https://img.shields.io/badge/arXiv-2310.12345-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+  <a href="https://cv.hal.science/khazhgali-kozhasov"><img src="https://img.shields.io/badge/HAL-0066cc?style=for-the-badge&logo=hal&logoColor=white"></a>
+  <a href="mailto:khazhgali.kozhasov@univ-cotedazur.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <!-- Quick bio -->
