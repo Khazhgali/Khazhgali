@@ -14,9 +14,15 @@
 
 <!-- Quick bio -->
 <p align="center">
-  <i>Junior Professor Chair of "Computational Geometry" | Université Côte d'Azur<br> </i>
+  <i>Tenure-track professor (Chair de Professeur Junior "Géométrie computationnelle") | [Laboratoire J. A. Dieudonné](https://math.univ-cotedazur.fr/), [Université Côte d'Azur](https://univ-cotedazur.fr/)<br> </i>
 </p>
-
+< p align="center">
+  <i> Affiliated researcher | [AROMATH](https://team.inria.fr/aromath/), [INRIA Sophia Antipolis](https://www.inria.fr/en/inria-centre-universite-cote-azur) </i>
+</p>
+< p align="center">
+  <i> International Faculty | [International Mathematics Master](https://internationalmathematicsmaster.org/) 
+  </i>
+</p>
 ---
 
 ## Research Interests
