@@ -21,9 +21,15 @@
 🔬 Research Interests
 
 <p 
-  <i> Real Algebraic Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
+  <i> Real Algebraic Geometry | Differential and Riemannian Geometry | Computational Algebraic Geometry | Polynomial Optimization | Probabilistic Geometry </i>
   </p>
+
+  <p The research directions I am currently interested in are: </p>
   
+  <p Nonnegative polynomials, sums of squares and their applications to polynomial optimization </p> 
+  <p Euclidean Distance minimization problems to special matrix and tensor varieties </p> 
+  <p Geometry of flag varieties and their applications to geometric statistics </p> 
+      
 ## Publications and preprints
 
 1. **On odd powers of nonnegative polynomials that are not sums of squares**  
