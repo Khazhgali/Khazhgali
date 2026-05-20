@@ -127,7 +127,7 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 ## Teaching
 
-- **Differential Geometry** (International Mathematics Master Pakistan – Lectures) at "Lahore University of Management Sciences" - Spring 2026
+- **Differential Geometry** (International Mathematics Master Pakistan) at Lahore University of Management Sciences - Spring 2026
 - **Calculus 2** (Bachelor, L1 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Spring 2026
 
 ## Past teaching
