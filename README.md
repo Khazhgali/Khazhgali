@@ -126,7 +126,7 @@
     *SIAM Journal on Applied Algebra and Geometry*, Vol. 2, No. 2, pp. 339–347 (2018)  
     [DOI](https://doi.org/10.1137/17M114565X)
 
-For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)
+**For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9pB0AAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Khazhgali-Kozhasov)**
 
 ## Teaching
 
