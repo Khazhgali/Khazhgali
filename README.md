@@ -12,17 +12,13 @@
   <a href="mailto:khazhgali.kozhasov@univ-cotedazur.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<!-- Quick bio -->
 <p align="center">
   <i>Tenure-track professor (Chair de Professeur Junior "Géométrie computationnelle") | [Laboratoire J. A. Dieudonné](https://math.univ-cotedazur.fr/), [Université Côte d'Azur](https://univ-cotedazur.fr/)<br> </i>
 </p>
-< p align="center">
-  <i> Affiliated researcher | [AROMATH](https://team.inria.fr/aromath/), [INRIA Sophia Antipolis](https://www.inria.fr/en/inria-centre-universite-cote-azur) </i>
-</p>
-< p align="center">
-  <i> International Faculty | [International Mathematics Master](https://internationalmathematicsmaster.org/) 
-  </i>
-</p>
+<p align="center">
+  <i> Affiliated researcher | [AROMATH](https://team.inria.fr/aromath/), [INRIA Sophia Antipolis](https://www.inria.fr/en/inria-centre-universite-cote-azur) </i></p>
+<p align="center">
+  <i> International Faculty | [International Mathematics Master](https://internationalmathematicsmaster.org/) </i></p>
 ---
 
 ## Research Interests
