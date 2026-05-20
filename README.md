@@ -13,13 +13,18 @@
 
 <!-- Quick bio -->
 <p align="center">
-  <i>Junior Professor Chair of "Computational Geometry" | Université Côte d'Azur<br>
-  Research: Real Algebraic Geometry, Computational Algebraic Geometry, Polynomial Optimization, Low-rank Approximations, Random Algebraic Geometry</i>
+  <i>Junior Professor Chair of "Computational Geometry" | Université Côte d'Azur<br> </i>
 </p>
 
 ---
 
-## 📚 Publications and preprints
+🔬 Research Interests
+
+<p 
+  <i> Real Algebraic Geometry | Computational Algebraic Geometry | Polynomial Optimization | Low-rank Approximations | Random Algebraic Geometry </i>
+  </p>
+  
+## Publications and preprints
 
 1. **On odd powers of nonnegative polynomials that are not sums of squares**  
    *G. Blekherman, Khazhgali Kozhasov, B. Reznick*  
@@ -121,17 +126,7 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 | **CS 201** | Data Structures & Algorithms | University Name | Spring 2024 | [Assignments](link) • [Lecture Notes](link) |
 | **DS 101** | Introduction to Data Science | University Name | Fall 2023 | [Course Website](link) |
 
-## 🔬 Research Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Graph_Neural_Networks-2C3E50?style=flat-square&logo=ai&logoColor=white">
-  <img src="https://img.shields.io/badge/Scientific_Reproducibility-2C3E50?style=flat-square&logo=code&logoColor=white">
-  <img src="https://img.shields.io/badge/Bayesian_Inference-2C3E50?style=flat-square&logo=statistics&logoColor=white">
-  <img src="https://img.shields.io/badge/Computational_Biology-2C3E50?style=flat-square&logo=dna&logoColor=white">
-  <img src="https://img.shields.io/badge/Open_Science-2C3E50?style=flat-square&logo=openaccess&logoColor=white">
-</p>
-
-## 📬 Contact & Collaboration
+## 📬 Contact information
 
 - **Email**: `khazhgali.kozhasov@univ-cotedazur.fr`  
 - **Office**: Laboratoire J.-A. Dieudonné Building, Office 815  
