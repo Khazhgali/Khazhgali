@@ -28,7 +28,7 @@
   
   <p <i> Nonnegative polynomials, sums of squares and their applications to polynomial optimization </i> </p> 
   <p <i> Euclidean Distance minimization problems to special matrix and tensor varieties </i></p> 
-  <p <i> Geometry of flag varieties and their applications to geometric statistics </i> </p> 
+  <p <i> Geometry of flag varieties with applications to geometric statistics </i> </p> 
       
 ## Publications and preprints
 
