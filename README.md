@@ -127,16 +127,54 @@ For updates see [Google Scholar](https://scholar.google.com/citations?user=cWl9p
 
 ## Teaching
 
-
-
-| Course | Title | Institution | Semester | Materials |
-|--------|-------|-------------|----------|-----------|
-| **CS 440** | Machine Learning | University Name | Fall 2024 | [Syllabus](link) • [GitHub Repo](link) |
-| **CS 201** | Data Structures & Algorithms | University Name | Spring 2024 | [Assignments](link) • [Lecture Notes](link) |
-| **DS 101** | Introduction to Data Science | University Name | Fall 2023 | [Course Website](link) |
+- **Differential Geometry** (International Mathematics Master Pakistan – Lectures) at "Lahore University of Management Sciences" - Spring 2026
+- **Calculus 2** (Bachelor, L1 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Spring 2026
 
 ## Past teaching
 
+- **Geometric statistics** (Master, M2 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Fall 2025
+
+- **Real solutions in Euclidean Distance minimization problems** (Minicourse at research school "Singularities and Applications to Optimization") at *Institute of Mathematics of the Romanian Academy, Bucureşti* — September 2025
+
+- **Riemannian Geometry** (International Mathematics Master Algeria – Lectures) at *National Higher School of Mathematics* — May 2025
+
+- **Geometric statistics** (Master, M2 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Fall 2024
+
+- **Geometric statistics** (Master, M2 – Lectures) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Spring 2024
+
+- **Algèbre effective** (Bachelor, L3 – Computer tutorials) at *Laboratoire Jean Alexandre Dieudonné, Université Côte d'Azur* — Spring 2024
+
+- **Praktische Optimierung** (Bachelor seminar – Organizer) at *Fakultät für Mathematik und Informatik, Friedrich-Schiller-Universität Jena* — Spring 2023
+
+- **Kontinuierliche Optimierung** (Master seminar – Co-organizer) at *Fakultät für Mathematik und Informatik, Friedrich-Schiller-Universität Jena* — Spring 2023
+
+- **Polynomial optimization** (Master course – Lectures & exercise sessions) at *Fakultät für Mathematik und Informatik, Friedrich-Schiller-Universität Jena* — Spring 2023
+
+- **Machine learning with neural networks** (Master course – Lectures & exercise sessions) at *Carl-Friedrich-Gauß-Fakultät, TU Braunschweig* — Fall 2022
+
+- **Lineare Algebra und analytische Geometrie** (Bachelor course – Lectures) at *Fachbereich Mathematik/Informatik, Universität Osnabrück* — Fall 2021
+
+- **Algebraische Kurven** (Bachelor course – Lectures) at *Fachbereich Mathematik/Informatik, Universität Osnabrück* — Fall 2021
+
+- **Differentialgeometrie** (Bachelor seminar – Organizer) at *Fachbereich Mathematik/Informatik, Universität Osnabrück* — Spring 2021
+
+- **Graphentheorie** (Bachelor seminar – Organizer) at *Fachbereich Mathematik/Informatik, Universität Osnabrück* — Spring 2021
+
+- **Applied algebra and geometry** (Master course – Lectures & exercise sessions) at *Fachbereich Mathematik/Informatik, Universität Osnabrück* — Spring 2021
+
+- **Topology** (Bachelor course – Lectures & exercise sessions) at *Carl-Friedrich-Gauß-Fakultät, TU Braunschweig* — Fall 2020
+
+- **Algebra** (Bachelor course – Exercise sessions) at *Carl-Friedrich-Gauß-Fakultät, TU Braunschweig* — Spring 2020
+
+- **Algebraic geometry** (Master course – Lectures & exercise sessions) at *Carl-Friedrich-Gauß-Fakultät, TU Braunschweig* — Fall 2019
+
+- **Polynomial optimization and nonnegativity** (Master course – Exercise sessions) at *Carl-Friedrich-Gauß-Fakultät, TU Braunschweig* — Spring 2019
+
+- **Algebra 2** (Bachelor course – Exercise sessions) at *Department of Mathematics and Geosciences, Università degli studi di Trieste* — Spring 2017
+
+- **Algebra 1** (Bachelor course – Exercise sessions) at *Department of Mathematics and Geosciences, Università degli studi di Trieste* — Spring 2016
+
+- **General and algebraic topology** (Bachelor course – Exercise sessions) at *Department of Mathematics and Geosciences, Università degli studi di Trieste* — Spring 2016
 
 ## 📬 Contact information
 
